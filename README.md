@@ -36,3 +36,17 @@ _NuNet is a spin-off of Stichting SingularityNET_
 ### Assets
 1) Find our whitepaper [here](https://github.com/Deltas-Planet-Earth/public)
 2) Find our onepager [here](https://github.com/Deltas-Planet-Earth/public)
+
+## Azure Blockchain Service
+ABS is the foundation for blockchain apps in the cloud. It allows you to build, govern, and expand blockchain networks at scale. Azure Blockchain Service Preview simplifies the formation, management, and governance of consortium blockchain networks so you can focus on business logic and app development. Besides this it supports all kind of integration scenarios which are so present in Enterprises and are needed to kickstart all kinds of backend processes based on the Blockchain transactions.
+
+It accelerates Blockchain development and empowers the developer by:
+-) Deploy a fully managed blockchain networks in a few simple clicks;
+-) Govern at scale with built-in governance and codeless consortia management;
+-) Offload blockchain network management so you can focus on application logic;
+-) Build blockchain apps with confidence using the dev tools you love and the apps you rely on today;
+-) Integrates easily with all kinds of backend processes.
+
+### Assets
+1) Find more info [here](https://azure.microsoft.com/en-us/services/blockchain-service/)
+2) Find more on the Enterprise adoption of Quorum [here](https://news.microsoft.com/2019/05/02/j-p-morgan-and-microsoft-announce-strategic-partnership-to-drive-enterprise-adoption-of-quorum/)
