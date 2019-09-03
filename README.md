@@ -41,11 +41,11 @@ _NuNet is a spin-off of Stichting SingularityNET_
 ABS is the foundation for blockchain apps in the cloud. It allows you to build, govern, and expand blockchain networks at scale. Azure Blockchain Service Preview simplifies the formation, management, and governance of consortium blockchain networks so you can focus on business logic and app development. Besides this it supports all kind of integration scenarios which are so present in Enterprises and are needed to kickstart all kinds of backend processes based on the Blockchain transactions.
 
 It accelerates Blockchain development and empowers the developer by:
--) Deploy a fully managed blockchain networks in a few simple clicks;
--) Govern at scale with built-in governance and codeless consortia management;
--) Offload blockchain network management so you can focus on application logic;
--) Build blockchain apps with confidence using the dev tools you love and the apps you rely on today;
--) Integrates easily with all kinds of backend processes.
+1) Deploy a fully managed blockchain networks in a few simple clicks;
+1) Govern at scale with built-in governance and codeless consortia management;
+1) Offload blockchain network management so you can focus on application logic;
+1) Build blockchain apps with confidence using the dev tools you love and the apps you rely on today;
+1) Integrates easily with all kinds of backend processes.
 
 ### Assets
 1) Find more info [here](https://azure.microsoft.com/en-us/services/blockchain-service/)
